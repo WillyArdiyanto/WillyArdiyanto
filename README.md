@@ -21,13 +21,11 @@ As a laboratory assistant I've teach computer network and algorithm and programm
 I'm intrested in artificial intelligence, computer network, cloud computing, Japanese culture, and many more!
 
 If you're intrested, you can connect to my [LinkedIn](https://www.linkedin.com/in/willy-a-b9908010a/), thank you!
-
-<!-- Perkenalkan nama saya **Gilang Ramadhan**.\
-
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya. -->
+  
+  ### Github Statistic
+<p align="left">
+<a href="https://github.com/WillyArdiyanto">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillyArdiyanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillyArdiyanto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
