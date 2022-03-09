@@ -20,7 +20,7 @@ I'm currently working part-time as a laboratory administrator and laboratory ass
 As a laboratory assistant I've teach computer network and algorithm and programming.\
 I'm intrested in artificial intelligence, computer network, cloud computing, Japanese culture, and many more!
 
-If you're intrested, you can connect to my [LinkedIn](https://www.linkedin.com/in/willy-a-b9908010a/), thank you!
+If you're intrested, you can connect to my [LinkedIn](https://www.linkedin.com/in/willyardiyanto/), thank you!
   
   ### Github Statistic
 <p align="left">
